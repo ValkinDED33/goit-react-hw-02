@@ -1,0 +1,33 @@
+.friendCard {
+  border: 2px solid #000;
+  border-radius: 10px;
+  padding: 16px;
+  width: 120px;
+  text-align: center;
+  background-color: white;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.friendAvatar {
+  width: 48px;
+  height: 48px;
+}
+
+.friendName {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.friendStatus {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.online {
+  color: green;
+}
+
+.offline {
+  color: red;
+}
